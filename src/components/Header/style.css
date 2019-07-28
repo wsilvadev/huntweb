@@ -4,9 +4,9 @@ header#main_header {
     background: red;
     font-size: 18px;
     font-weight: bold;
-    color: silver;
+    color: rgb(245, 241, 241);
     display: flex;
-    justify-content: content;
+    justify-content: center;
     align-items: center;
 
 }
